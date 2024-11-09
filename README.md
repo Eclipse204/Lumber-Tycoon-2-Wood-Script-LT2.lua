@@ -1,4 +1,5 @@
 # Lumber Tycoon 2 Wood Script
+10 milion money
 
 
 In Lumber Tycoon 2 (LT2) on Roblox, a wood script can refer to various types of scripts related to
